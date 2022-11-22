@@ -17,10 +17,3 @@ app.get("/data/:id", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
-
-// git init
-// git add .
-// git commit -m ""
-// git branch -M main
-// git remote add origin https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Rakibul2580.git
-// git push -u origin main
