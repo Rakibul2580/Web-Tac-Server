@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Angular",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/375px-Angular_full_color_logo.svg.png",
+    "details": "Angular is a TypeScript-based free and open-source web application framework lead by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.",
+    "price": 2000
+  },
+  {
+    "id": "2",
+    "title": "Gatsby",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Gatsby_Logo.png/180px-Gatsby_Logo.png",
+    "details": "Gatsby is an open-source static site generator built on top of Node.js using React and GraphQL. It provides over 2500 plugins to create static sites based on sources as Markdown documents, MDX, images, and numerous Content Management Systems such as WordPress, Drupal and more.",
+    "price": 1800
+  },
+  {
+    "id": "3",
+    "title": "Plain HTML",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png",
+    "details": "HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as directly introduce content into the page. Other tags such as surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page.",
+    "price": 1000
+  },
+  {
+    "id": "4",
+    "title": "Next.js",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjIGZ01GEuYT-1FBjOBijnBGqOXqhOIu2vhbk6gzoC7pa-3yKN9ovUbuvKO0gNMWqovfw&usqp=CAU",
+    "details": "Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites. React documentation mentions Next.js among Recommended Toolchains advising it to developers as a solution when Building a server-rendered website with Node.js.[4] Where traditional React apps can only render their content in the client-side browser, Next.js extends this functionality to include applications rendered on the server-side.",
+    "price": 1600
+  },
+  {
+    "id": "5",
+    "title": "Nuxt.js",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/180px-Nuxt_logo.svg.png",
+    "details": "The framework is advertised as a Meta-framework for universal applications. The term universal is used here with the meaning that the goal of the framework is to enable users to create web views in JavaScript utilizing the Vue.js single file component system and that can function both as in-browser single page application (SPA) views as well as server-rendered web views which are then (after server rendering) rehydrated to full SPA functionality.[5][6] Additionally, the framework enables users to have the content, or parts of it, fully pre-rendered on the server and served in the manner of static site generators.",
+    "price": 1400
+  },
+  {
+    "id": "6",
+    "title": "React",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/180px-React-icon.svg.png",
+    "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+    "price": 2100
+  },
+  {
+    "id": "7",
+    "title": "Svelte",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/96px-Svelte_Logo.svg.png",
+    "details": "Svelte is a free and open-source front end compiler created by Rich Harris and maintained by the Svelte core team members. Svelte is not a monolithic JavaScript library imported by applications: instead, Svelte compiles HTML templates to specialized code that manipulates the DOM directly, which may reduce the size of transferred files and give better client performance; application code is also processed by the compiler, inserting calls to automatically recompute data and re-render UI elements when the data they depend on is modified",
+    "price": 1750
+  },
+  {
+    "id": "8",
+    "title": "Vue.js",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/180px-Vue.js_Logo_2.svg.png",
+    "details": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members.",
+    "price": 1600
+  }
+]
